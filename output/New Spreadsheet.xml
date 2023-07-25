@@ -1,0 +1,1290 @@
+<?xml version="1.0" ?>
+<Report xmlns="http://transactionreporting.org/reportSchema" Reference="00320231141230" Environment="P" Version="1">
+  <OriginalTransaction LineNumber="1" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423435" BranchCode="661264" BranchName="Tshaneni" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="1202">
+    <NonResident>
+      <Individual Surname="Khosa" Name="ELIZABETH" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508116"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="DLAMINI" Name="NELSIWE" Gender="F" DateOfBirth="1981-05-13" IDNumber="8105131100025">
+        <AdditionalCustomerData AccountName="NELSIWE" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110000601287" StreetAddressLine1="Tshaneni" StreetSuburb="Tshaneni" StreetCity="Tshaneni" StreetRegion="Lubombo" PostalAddressLine1="Tshaneni" PostalSuburb="Tshaneni" PostalCity="Tshaneni" PostalRegion="Lubombo" ContactSurname="BITCHONG" ContactName="ARIANE CECILE" Telephone="76040255"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="601" DomesticCurrencyCode="SZL" ForeignValue="601" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="2" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423662" BranchCode="663464" BranchName="Mbabane" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="400000">
+    <NonResident>
+      <Individual Surname="GUMBI" Name="Nomsa" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508117"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="SOROKHAIBAM" Name="SATYABATI" Gender="M" DateOfBirth="1949-07-17" IDNumber="4907176100016">
+        <AdditionalCustomerData AccountName="SATYABATI" AccountIdentifier="RESIDENT OTHER" AccountNumber="91100038787" StreetAddressLine1="corporate place" StreetSuburb="Mbabane" StreetCity="Mbabane" StreetRegion="Mbabane" PostalAddressLine1="Mbabane" PostalSuburb="Mbabane" PostalCity="Mbabane" PostalRegion="Hhohho" ContactSurname="Dlamini" ContactName="ZIYANDA S" Telephone="76028575"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="200000" DomesticCurrencyCode="SZL" ForeignValue="200000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="3" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423391" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="1200">
+    <NonResident>
+      <Individual Surname="Z Mathikan" Name="JANE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508118"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="DLAMINI" Name="LINDIWE" Gender="M" DateOfBirth="1974-06-12" IDNumber="7406126100181">
+        <AdditionalCustomerData AccountName="LINDIWE" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110003076485" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="GILL" ContactName="BLAIR OLIPHANT" Telephone="76083433"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="600" DomesticCurrencyCode="SZL" ForeignValue="600" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="4" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423598" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="3000">
+    <NonResident>
+      <Individual Surname="Xuba" Name="SIMANGELE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508122"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MHLANGA" Name="SIBUSISO" Gender="F" DateOfBirth="1975-04-01" IDNumber="7504011100066">
+        <AdditionalCustomerData AccountName="SIBUSISO" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110000309055" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Mbabane" PostalSuburb="Mbabane" PostalCity="Hhohho" PostalRegion="H100" ContactSurname="MAMBA" ContactName="BALINGENE" Telephone="76256267"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="1500" DomesticCurrencyCode="SZL" ForeignValue="1500" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="5" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423430" BranchCode="663164" BranchName="Mbabane" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="960">
+    <NonResident>
+      <Individual Surname="XUBA" Name="SIMANGELE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508125"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="BUSHRA" Name="IJAZ" Gender="M" DateOfBirth="1979-06-04" IDNumber="7906041200917">
+        <AdditionalCustomerData AccountName="IJAZ" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110000809694" StreetAddressLine1="corporate place" StreetSuburb="Mbabane" StreetCity="Mbabane" StreetRegion="Mbabane" PostalAddressLine1="Mbabane" PostalSuburb="Mbabane" PostalCity="Mbabane" PostalRegion="Hhohho" ContactSurname="Dludlu" ContactName="VUMILE S" Telephone="76268787"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="480" DomesticCurrencyCode="SZL" ForeignValue="480" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="6" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423933" BranchCode="663164" BranchName="Mbabane" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="20000">
+    <NonResident>
+      <Individual Surname="VILAKATI" Name="MUSAWENKHOSI" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508126"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="SIMELANE" Name="NOKWANDA" Gender="M" DateOfBirth="1986-09-17" IDNumber="8609176100659">
+        <AdditionalCustomerData AccountName="NOKWANDA" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110001640782" StreetAddressLine1="corporate place" StreetSuburb="Mbabane" StreetCity="Mbabane" StreetRegion="Mbabane" PostalAddressLine1="Mbabane" PostalSuburb="Mbabane" PostalCity="Mbabane" PostalRegion="Hhohho" ContactSurname="KIPKOECH" ContactName="KEVIN" Telephone="78024964"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="10000" DomesticCurrencyCode="SZL" ForeignValue="10000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="7" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423253" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="1800">
+    <NonResident>
+      <Individual Surname="KHOSA" Name="ELIZABETH" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508127"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="DLAMINI" Name="TEMASWATI" Gender="F" DateOfBirth="1963-06-20" IDNumber="6306201100117">
+        <AdditionalCustomerData AccountName="TEMASWATI" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110002758272" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="IGONOR" ContactName="PAUL OMOH" Telephone="76074939"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="900" DomesticCurrencyCode="SZL" ForeignValue="900" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="8" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423532" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="4000">
+    <NonResident>
+      <Individual Surname="Ntsoelikan" Name="NDO" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508128"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="Masuku" Name="Welile" Gender="F" DateOfBirth="1983-09-07" IDNumber="8309071100017">
+        <AdditionalCustomerData AccountName="Welile" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110003560018" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="Inguane" ContactName="Antony" Telephone="7806308"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="2000" DomesticCurrencyCode="SZL" ForeignValue="2000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="9" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423531" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="3300">
+    <NonResident>
+      <Individual Surname="Nkosi" Name="SYLVIA" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508129"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="Masuku" Name="Welile" Gender="F" DateOfBirth="1983-09-07" IDNumber="8309071100017">
+        <AdditionalCustomerData AccountName="Welile" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110003560018" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="Magagula" ContactName="ANDZA" Telephone="7806308"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="1650" DomesticCurrencyCode="SZL" ForeignValue="1650" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="10" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423433" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="2000">
+    <NonResident>
+      <Individual Surname="FAKUDZE" Name="KHOMBISILE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508132"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="JAMES" Name="mccled" Gender="F" DateOfBirth="1975-05-11" IDNumber="7505111100088">
+        <AdditionalCustomerData AccountName="mccled" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110002608432" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="Nkosi" ContactName="SLINDILE" Telephone="76045848"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="1000" DomesticCurrencyCode="SZL" ForeignValue="1000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="11" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33424050" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="1000">
+    <NonResident>
+      <Individual Surname="NKOSI" Name="BANELE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508133"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="FAKUDZE" Name="NTOMBIE" Gender="F" DateOfBirth="1921-11-30" IDNumber="2021911000695">
+        <AdditionalCustomerData AccountName="NTOMBIE" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110001145005" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="ASSUMANI" ContactName="SIFA" Telephone="76964233"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="500" DomesticCurrencyCode="SZL" ForeignValue="500" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="12" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423917" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="5000">
+    <NonResident>
+      <Individual Surname="Tsela" Name="FIKILE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508134"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="FAKUDZE" Name="NTOMBIE" Gender="F" DateOfBirth="1972-06-25" IDNumber="7206251100232">
+        <AdditionalCustomerData AccountName="NTOMBIE" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110003060384" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="JASON" ContactName="YOUNG" Telephone="76044199"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="2500" DomesticCurrencyCode="SZL" ForeignValue="2500" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="13" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33424007" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="40000">
+    <NonResident>
+      <Individual Surname="Slade" Name="FIKILE" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508139"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MKHATSHWA" Name="HAPPINESS" Gender="M" DateOfBirth="1986-06-10" IDNumber="8606106100015">
+        <AdditionalCustomerData AccountName="HAPPINESS" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110000792716" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="SIBANDE" ContactName="M L" Telephone="76029019"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="20000" DomesticCurrencyCode="SZL" ForeignValue="20000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="14" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423459" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="2600">
+    <NonResident>
+      <Individual Surname="Khosa" Name="NELISIWE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508141"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MAGAGULA" Name="NOMSA" Gender="F" DateOfBirth="1974-11-05" IDNumber="7411051100180">
+        <AdditionalCustomerData AccountName="NOMSA" AccountIdentifier="RESIDENT OTHER" AccountNumber="911000388226" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="Van der Merwe" ContactName="DOROTHEA" Telephone="76922154"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="1300" DomesticCurrencyCode="SZL" ForeignValue="1300" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="15" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423611" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="40000">
+    <NonResident>
+      <Individual Surname="KHOSA" Name="MOTSELISI" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508143"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="KHUMALO" Name="ELIJAH" Gender="M" DateOfBirth="1973-06-29" IDNumber="7306291200339">
+        <AdditionalCustomerData AccountName="ELIJAH" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110005638375" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="Ngwetsana" ContactName="Nthabiseng" Telephone="76226497"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="20000" DomesticCurrencyCode="SZL" ForeignValue="20000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="16" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423993" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="2200">
+    <NonResident>
+      <Individual Surname="Payne" Name="MANDLA" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508145"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MASEKO" Name="GCEBILE" Gender="M" DateOfBirth="1970-07-30" IDNumber="7007306100072">
+        <AdditionalCustomerData AccountName="GCEBILE" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110002632279" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="Carmichael" ContactName="Mr AE" Telephone="76028728"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="1100" DomesticCurrencyCode="SZL" ForeignValue="1100" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="17" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423193" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="40000">
+    <NonResident>
+      <Individual Surname="Mthunywa" Name="NKOSINATHI" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508146"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MAVIMBELA DLUDLU" Name="MAKHOSAZANE" Gender="M" DateOfBirth="1986-06-16" IDNumber="8606166100079">
+        <AdditionalCustomerData AccountName="MAKHOSAZANE" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110000980202" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MAGAGULA" ContactName="CEBSILE" Telephone="76176356"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="20000" DomesticCurrencyCode="SZL" ForeignValue="20000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="18" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423529" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="1600">
+    <NonResident>
+      <Individual Surname="von Wissel" Name="MARY" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508147"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="THWALA" Name="Lundzi" Gender="F" DateOfBirth="1960-12-25" IDNumber="6012251100045">
+        <AdditionalCustomerData AccountName="Lundzi" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110000829679" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="SHEIKH" ContactName="MR FARID" Telephone="76082585"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="800" DomesticCurrencyCode="SZL" ForeignValue="800" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="19" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423509" BranchCode="660864" BranchName="Nhlangano" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="2000">
+    <NonResident>
+      <Individual Surname="DLAMINI" Name="MPHUNYUKA" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508149"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="mvubu" Name="muketi" Gender="M" DateOfBirth="1978-05-11" IDNumber="7805116100012">
+        <AdditionalCustomerData AccountName="muketi" AccountIdentifier="RESIDENT OTHER" AccountNumber="911000285596" StreetAddressLine1="Nhlangano" StreetSuburb="Nhlangano" StreetCity="Nhlangano" StreetRegion="Shiselweni" PostalAddressLine1="Nhlangano" PostalSuburb="Nhlangano" PostalCity="Nhlangano" PostalRegion="Shiselweni" ContactSurname="Mgwaba" ContactName="Sandile S" Telephone="76306293"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="1000" DomesticCurrencyCode="SZL" ForeignValue="1000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="20" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423878" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="830">
+    <NonResident>
+      <Individual Surname="DLAMINI" Name="MOFFAT" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508151"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="SIMELANE" Name="SABATHA" Gender="M" DateOfBirth="1969-07-13" IDNumber="6907136100021">
+        <AdditionalCustomerData AccountName="SABATHA" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110001093978" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="DADA" ContactName="MR ADE AS" Telephone="7611814"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="415" DomesticCurrencyCode="SZL" ForeignValue="415" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="21" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33424009" BranchCode="663464" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="1000">
+    <NonResident>
+      <Individual Surname="DLAMINI" Name="TRYPHINE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508152"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="NKAMBULE" Name="NKAMBULE" Gender="F" DateOfBirth="1970-08-28" IDNumber="7008281100152">
+        <AdditionalCustomerData AccountName="NKAMBULE" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110000880305" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MATFUNJWA" ContactName="MBUSO" Telephone="76071629"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="500" DomesticCurrencyCode="SZL" ForeignValue="500" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="22" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423656" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="22300">
+    <NonResident>
+      <Individual Surname="Gwambe" Name="LINDA" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508153"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="KIDANE" Name="SOLOMON" Gender="F" DateOfBirth="1985-05-01" IDNumber="8505011100096">
+        <AdditionalCustomerData AccountName="SOLOMON" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110002343161" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="SPARHAM" ContactName="TRAVIS JOHN" Telephone="78417496"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="11150" DomesticCurrencyCode="SZL" ForeignValue="11150" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="23" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423477" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="10000">
+    <NonResident>
+      <Individual Surname="Mendes" Name="MPHETFO" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508156"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="DLAMINI" Name="GCABSIE" Gender="M" DateOfBirth="1992-11-03" IDNumber="9211036100356">
+        <AdditionalCustomerData AccountName="GCABSIE" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110003561138" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MAVUSO" ContactName="NELLY" Telephone="76171099"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="5000" DomesticCurrencyCode="SZL" ForeignValue="5000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="24" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33424052" BranchCode="663464" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="2000">
+    <NonResident>
+      <Individual Surname="NXUMALO" Name="THANDO" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508159"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="SIMELANE" Name="SIMELANE" Gender="M" DateOfBirth="1994-11-16" IDNumber="9411166100156">
+        <AdditionalCustomerData AccountName="SIMELANE" AccountIdentifier="RESIDENT OTHER" AccountNumber="911000540909" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="Sibeko" ContactName="Zandile" Telephone="76503688"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="1000" DomesticCurrencyCode="SZL" ForeignValue="1000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="25" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423783" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="12200">
+    <NonResident>
+      <Individual Surname="NXUMALO" Name="WINILE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508171"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="zwane" Name="majaha" Gender="F" DateOfBirth="1965-08-27" IDNumber="6508271100048">
+        <AdditionalCustomerData AccountName="majaha" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110000250271" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="VILAKATI" ContactName="SIBONGINHLANHLA" Telephone="76311627"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="6100" DomesticCurrencyCode="SZL" ForeignValue="6100" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="26" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423839" BranchCode="660464" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="2598">
+    <NonResident>
+      <Individual Surname="SHOKO" Name="THANDO" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508172"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="DVUBA" Name="NKOSINGIPHILE" Gender="F" DateOfBirth="1965-08-27" IDNumber="6508271100048">
+        <AdditionalCustomerData AccountName="NKOSINGIPHILE" AccountIdentifier="RESIDENT OTHER" AccountNumber="911000336157" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="DE LA FLOR" ContactName="KRISTINA" Telephone="76239627"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="1299" DomesticCurrencyCode="SZL" ForeignValue="1299" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="27" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423662" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="400000">
+    <NonResident>
+      <Individual Surname="MATSEBULA" Name="MICHAE" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508184"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MHLANGA" Name="NOMSA" Gender="M" DateOfBirth="1949-07-17" IDNumber="4907176100016">
+        <AdditionalCustomerData AccountName="NOMSA" AccountIdentifier="RESIDENT OTHER" AccountNumber="91100038787" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="LORANDOS" ContactName="ROSSANN ELIZABETH" Telephone="76028575"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="200000" DomesticCurrencyCode="SZL" ForeignValue="200000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="28" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423391" BranchCode="663464" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="1200">
+    <NonResident>
+      <Individual Surname="YAN" Name="MDUDUZI" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508185"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MHLANGA" Name="MHLANGA" Gender="M" DateOfBirth="1974-06-12" IDNumber="7406126100181">
+        <AdditionalCustomerData AccountName="MHLANGA" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110003076485" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="HICKS" ContactName="LARRY" Telephone="76083433"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="600" DomesticCurrencyCode="SZL" ForeignValue="600" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="29" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423392" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="2400">
+    <NonResident>
+      <Individual Surname="Adams" Name="PHETSILE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508190"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="THEMBI" Name="THEMBI" Gender="F" DateOfBirth="1981-07-27" IDNumber="8107271100500">
+        <AdditionalCustomerData AccountName="THEMBI" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110001685174" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="OKEREKE" ContactName="NDUKAIRE" Telephone="7645084"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="1200" DomesticCurrencyCode="SZL" ForeignValue="1200" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="30" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423815" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="21500">
+    <NonResident>
+      <Individual Surname="MATSEBULA" Name="NKOSINATHI" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508191"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="DLAMINI" Name="SITHEMBISO" Gender="M" DateOfBirth="1982-01-25" IDNumber="8201256100013">
+        <AdditionalCustomerData AccountName="SITHEMBISO" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110003863118" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MKHANAZI" ContactName="THULIE" Telephone="76138386"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="10750" DomesticCurrencyCode="SZL" ForeignValue="10750" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="31" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423497" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="5400">
+    <NonResident>
+      <Individual Surname="Nhleko" Name="PHATHIZWE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508193"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="AHMMED" Name="AHMMED" Gender="M" DateOfBirth="1991-02-10" IDNumber="9102106100162">
+        <AdditionalCustomerData AccountName="AHMMED" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110001264756" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="BALAGUMYETIME" ContactName="EMMANUEL" Telephone="76216601"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="2700" DomesticCurrencyCode="SZL" ForeignValue="2700" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="32" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423749" BranchCode="660464" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="12800">
+    <NonResident>
+      <Individual Surname="MATSEBULA" Name="RORY" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508211"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MASONDO DLOMO" Name="MASONDO" Gender="F" DateOfBirth="1987-02-20" IDNumber="8702201100313">
+        <AdditionalCustomerData AccountName="MASONDO" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110004419505" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MASILELA" ContactName="MISS PT." Telephone="76632176"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="6400" DomesticCurrencyCode="SZL" ForeignValue="6400" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="33" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423956" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="20000">
+    <NonResident>
+      <Individual Surname="SHEZI" Name="Mary" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508217"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="NXUMALO" Name="ABEL" Gender="M" DateOfBirth="1972-12-19" IDNumber="7212196100022">
+        <AdditionalCustomerData AccountName="ABEL" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110006159799" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MOYO" ContactName="KHANYILE" Telephone="7853451"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="10000" DomesticCurrencyCode="SZL" ForeignValue="10000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="34" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423807" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="400000">
+    <NonResident>
+      <Individual Surname="NHLENYAMA" Name="LOUIS" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508218"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="TSHUMA" Name="CHARLES" Gender="M" DateOfBirth="1972-12-19" IDNumber="7212196100022">
+        <AdditionalCustomerData AccountName="CHARLES" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110005182932" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="KUSUO" ContactName="BEAUTY" Telephone="7808556"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="200000" DomesticCurrencyCode="SZL" ForeignValue="200000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="35" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423447" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="20000">
+    <NonResident>
+      <Individual Surname="NCUBE" Name="SIBONISILE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508219"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MVUBU" Name="MVUBU" Gender="F" DateOfBirth="1988-02-21" IDNumber="8802211100186">
+        <AdditionalCustomerData AccountName="MVUBU" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110002025488" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="OYAKHILOME" ContactName="REV KENNETH" Telephone="76689873"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="10000" DomesticCurrencyCode="SZL" ForeignValue="10000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="36" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423778" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="2900">
+    <NonResident>
+      <Individual Surname="MAILA" Name="THOBILE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508220"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="NDZIMANZE" Name="NDZIMANZE" Gender="F" DateOfBirth="1988-02-21" IDNumber="8802211100129">
+        <AdditionalCustomerData AccountName="NDZIMANZE" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110004126796" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="Masuku" ContactName="ZWELITHINI" Telephone="76187146"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="1450" DomesticCurrencyCode="SZL" ForeignValue="1450" ForeignCurrencyCode="ZAR" BoPCategory="10301" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="37" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423731" BranchCode="661164" BranchName="Big bend" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="2000">
+    <NonResident>
+      <Individual Surname="Amod" Name="MUSA" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508236"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MDLOVU" Name="BUSAPHI" Gender="M" DateOfBirth="1970-05-17" IDNumber="7005176100024">
+        <AdditionalCustomerData AccountName="BUSAPHI" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110001181087" StreetAddressLine1="Big bend" StreetSuburb="Big Bend" StreetCity="Big Bend" StreetRegion="Lubombo" PostalAddressLine1="Big bend" PostalSuburb="Big Bend" PostalCity="Big Bend" PostalRegion="Lubombo" ContactSurname="SEKWADI" ContactName="PHILLIP" Telephone="76022054"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="1000" DomesticCurrencyCode="SZL" ForeignValue="1000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="38" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423242" BranchCode="661164" BranchName="Big bend" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="12400">
+    <NonResident>
+      <Individual Surname="DLAMINI" Name="CEB'SILE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508237"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="SIFUNDZA" Name="MFANAWENKHOSI" Gender="F" DateOfBirth="1980-10-11" IDNumber="8010111100013">
+        <AdditionalCustomerData AccountName="MFANAWENKHOSI" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110005676226" StreetAddressLine1="Big bend" StreetSuburb="Big Bend" StreetCity="Big Bend" StreetRegion="Lubombo" PostalAddressLine1="Big bend" PostalSuburb="Big Bend" PostalCity="Big Bend" PostalRegion="Lubombo" ContactSurname="NGEMA" ContactName="PHEWOKUHLE" Telephone="76110899"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="6200" DomesticCurrencyCode="SZL" ForeignValue="6200" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="39" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423245" BranchCode="661264" BranchName="Tshaneni" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="916000">
+    <NonResident>
+      <Individual Surname="SCTHULTZLER" Name="BARRY" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508245"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="Dlamini" Name="Dlamini" Gender="M" DateOfBirth="1966-04-21" IDNumber="6604215100085">
+        <AdditionalCustomerData AccountName="Dlamini" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110004256886" StreetAddressLine1="Tshaneni" StreetSuburb="Tshaneni" StreetCity="Tshaneni" StreetRegion="Lubombo" PostalAddressLine1="Tshaneni" PostalSuburb="Tshaneni" PostalCity="Tshaneni" PostalRegion="Lubombo" ContactSurname="CUEVAS" ContactName="CHRISTINE" Telephone="76041062"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="458000" DomesticCurrencyCode="SZL" ForeignValue="458000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="40" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423885" BranchCode="663464" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="5000">
+    <NonResident>
+      <Individual Surname="Mm" Name="MANDISA" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508260"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MASILELA" Name="MASILELA" Gender="F" DateOfBirth="1985-10-06" IDNumber="8510061100129">
+        <AdditionalCustomerData AccountName="MASILELA" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110000310207" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="DLAMINI" ContactName="NSIZWA" Telephone="7631966"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="2500" DomesticCurrencyCode="SZL" ForeignValue="2500" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="41" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423365" BranchCode="661264" BranchName="Tshaneni" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="6000">
+    <NonResident>
+      <Individual Surname="MATSEBULA" Name="SAM" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508264"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MKHABELA" Name="NTFOMBIYENKHOSI" Gender="F" DateOfBirth="1958-08-01" IDNumber="5808011100014">
+        <AdditionalCustomerData AccountName="NTFOMBIYENKHOSI" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110002748641" StreetAddressLine1="Tshaneni" StreetSuburb="Tshaneni" StreetCity="Tshaneni" StreetRegion="Lubombo" PostalAddressLine1="Tshaneni" PostalSuburb="Tshaneni" PostalCity="Tshaneni" PostalRegion="Lubombo" ContactSurname="SIBEKO" ContactName="PHILANI" Telephone="7671077"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="3000" DomesticCurrencyCode="SZL" ForeignValue="3000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="42" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423904" BranchCode="661264" BranchName="Tshaneni" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="20000">
+    <NonResident>
+      <Individual Surname="MAVIMBELA" Name="MANDLA" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508265"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MURYE" Name="MURYE" Gender="M" DateOfBirth="1973-01-06" IDNumber="7301066100152">
+        <AdditionalCustomerData AccountName="MURYE" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110003606581" StreetAddressLine1="Tshaneni" StreetSuburb="Tshaneni" StreetCity="Tshaneni" StreetRegion="Lubombo" PostalAddressLine1="Tshaneni" PostalSuburb="Tshaneni" PostalCity="Tshaneni" PostalRegion="Lubombo" ContactSurname="MKHWANAZI" ContactName="SABELO MUSA" Telephone="7638809"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="10000" DomesticCurrencyCode="SZL" ForeignValue="10000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="43" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423538" BranchCode="660464" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="3080">
+    <NonResident>
+      <Individual Surname="Ginindza" Name="FRITZ" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508268"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="SIHLONGONYANE" Name="SIHLONGONYANE" Gender="F" DateOfBirth="1980-04-17" IDNumber="8004171100203">
+        <AdditionalCustomerData AccountName="SIHLONGONYANE" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110004351277" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="DLAMINI" ContactName="SMANGA JOEL" Telephone="76335629"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="1540" DomesticCurrencyCode="SZL" ForeignValue="1540" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="44" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33424379" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="1400">
+    <NonResident>
+      <Individual Surname="Ncube" Name="ANDREA" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508273"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MTHIMKHULU" Name="MTHIMKHULU" Gender="F" DateOfBirth="1989-07-06" IDNumber="8907061100366">
+        <AdditionalCustomerData AccountName="MTHIMKHULU" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110003503103" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MADONSELA" ContactName="BONGANI" Telephone="76895455"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="700" DomesticCurrencyCode="SZL" ForeignValue="700" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="45" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33424125" BranchCode="660464" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="7000">
+    <NonResident>
+      <Individual Surname="Miah" Name="MASITSELA" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508274"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="SHABANGU" Name="SAMKELISIWE" Gender="M" DateOfBirth="1968-07-15" IDNumber="6807156100044">
+        <AdditionalCustomerData AccountName="SAMKELISIWE" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110004469685" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="CHABALALA" ContactName="THEMBA" Telephone="76895455"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="3500" DomesticCurrencyCode="SZL" ForeignValue="3500" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="46" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33424291" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="5200">
+    <NonResident>
+      <Individual Surname="Khumalo" Name="SALIM" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508275"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="ZWANE" Name="ZWANE" Gender="M" DateOfBirth="1956-09-24" IDNumber="5609246300142">
+        <AdditionalCustomerData AccountName="ZWANE" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110002389676" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MAMBA" ContactName="MUSA" Telephone="76895455"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="2600" DomesticCurrencyCode="SZL" ForeignValue="2600" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="47" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33424366" BranchCode="660864" BranchName="Nhlangano" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="8000">
+    <NonResident>
+      <Individual Surname="Malek" Name="WELILE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508277"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="NGWENYA" Name="NGWENYA" Gender="F" DateOfBirth="1980-08-22" IDNumber="8008221100105">
+        <AdditionalCustomerData AccountName="NGWENYA" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110003929038" StreetAddressLine1="Nhlangano" StreetSuburb="Nhlangano" StreetCity="Nhlangano" StreetRegion="Shiselweni" PostalAddressLine1="Nhlangano" PostalSuburb="Nhlangano" PostalCity="Nhlangano" PostalRegion="Shiselweni" ContactSurname="MAHLALELA" ContactName="HLEZIPHI" Telephone="76895455"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="4000" DomesticCurrencyCode="SZL" ForeignValue="4000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="48" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33424567" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="1000">
+    <NonResident>
+      <Individual Surname="DLAMINI" Name="NKULULEKO" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508278"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="NSIBANDZE" Name="NSIBANDZE" Gender="M" DateOfBirth="1974-06-04" IDNumber="7406046100261">
+        <AdditionalCustomerData AccountName="NSIBANDZE" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110004768674" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MTHETHWA" ContactName="AARON THABISO" Telephone="76895455"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="500" DomesticCurrencyCode="SZL" ForeignValue="500" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="49" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33424368" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="4900">
+    <NonResident>
+      <Individual Surname="Vilakazi" Name="MBONENI" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508279"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="JEMAL" Name="JEMAL" Gender="M" DateOfBirth="1974-06-04" IDNumber="7406046100261">
+        <AdditionalCustomerData AccountName="JEMAL" AccountIdentifier="RESIDENT OTHER" AccountNumber="911000596235" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MBHAMALI" ContactName="ZAMOKWAKHE PHILA" Telephone="76895455"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="2450" DomesticCurrencyCode="SZL" ForeignValue="2450" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="50" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33424329" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="10000">
+    <NonResident>
+      <Individual Surname="LEDWABA" Name="BHEKISISA" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508281"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="Mdluli" Name="Philile" Gender="M" DateOfBirth="1963-02-23" IDNumber="6302236100016">
+        <AdditionalCustomerData AccountName="Philile" AccountIdentifier="RESIDENT OTHER" AccountNumber="911000334652" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="JAARS" ContactName="ROEMELLO RYANATHAN" Telephone="76895455"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="5000" DomesticCurrencyCode="SZL" ForeignValue="5000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="51" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33424441" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="3000">
+    <NonResident>
+      <Individual Surname="VILAKATI" Name="CYNTHIA" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508282"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MAPHOSA" Name="COSMAS" Gender="F" DateOfBirth="1979-11-15" IDNumber="7911151100014">
+        <AdditionalCustomerData AccountName="COSMAS" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110001058706" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="DLAMINI" ContactName="MANDLA KHALEMZINI" Telephone="76895455"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="1500" DomesticCurrencyCode="SZL" ForeignValue="1500" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="52" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33424406" BranchCode="663464" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="2000">
+    <NonResident>
+      <Individual Surname="NGOZO" Name="THOBILE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508283"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MAPHOSA" Name="MAPHOSA" Gender="F" DateOfBirth="1988-02-21" IDNumber="8802211100129">
+        <AdditionalCustomerData AccountName="MAPHOSA" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110004126796" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MEMELA" ContactName="ANDILE RAYMOND" Telephone="76895455"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="1000" DomesticCurrencyCode="SZL" ForeignValue="1000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="53" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33424185" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="6000">
+    <NonResident>
+      <Individual Surname="DZIKO" Name="HAPPY" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508284"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="DLAMINI" Name="LINDANI" Gender="F" DateOfBirth="1959-11-05" IDNumber="5911051100090">
+        <AdditionalCustomerData AccountName="LINDANI" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110000073973" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="NKABINDE" ContactName="PHUMZILE ABIGAIL" Telephone="76895455"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="3000" DomesticCurrencyCode="SZL" ForeignValue="3000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="54" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33424325" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="1600">
+    <NonResident>
+      <Individual Surname="Ayadish Creati" Name="MANGALISO" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508286"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="DLAMINI" Name="DLAMINI" Gender="M" DateOfBirth="1974-09-24" IDNumber="7409246100081">
+        <AdditionalCustomerData AccountName="DLAMINI" AccountIdentifier="RESIDENT OTHER" AccountNumber="911000443242" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="DUMA" ContactName="DORIS THOKOZILE" Telephone="76895455"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="800" DomesticCurrencyCode="SZL" ForeignValue="800" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="55" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33424356" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="2000">
+    <NonResident>
+      <Individual Surname="ORWOTHWUN" Name="NONHLANHLA" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508288"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="KHANYILE" Name="THANDEKA" Gender="F" DateOfBirth="1967-11-16" IDNumber="6711161100066">
+        <AdditionalCustomerData AccountName="THANDEKA" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110004155451" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="SINGWANE" ContactName="ORIEL" Telephone="76895455"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="1000" DomesticCurrencyCode="SZL" ForeignValue="1000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="56" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33424390" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="2000">
+    <NonResident>
+      <Individual Surname="Ndzimandze" Name="HANNELORE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508290"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="PIRES GAMA" Name="PIRES" Gender="M" DateOfBirth="1947-01-07" IDNumber="4701071000177">
+        <AdditionalCustomerData AccountName="PIRES" AccountIdentifier="RESIDENT OTHER" AccountNumber="911000080182" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MANALA" ContactName="MILLION LUCAS" Telephone="76895455"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="1000" DomesticCurrencyCode="SZL" ForeignValue="1000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="57" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422846" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="800">
+    <NonResident>
+      <Individual Surname="Ndzimandze" Name="NOMVULA" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508300"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="VAN BILJON" Name="MARTHINUS" Gender="F" DateOfBirth="1963-09-20" IDNumber="6309201100020">
+        <AdditionalCustomerData AccountName="MARTHINUS" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110003040065" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="KHANGELA" ContactName="SILINDOKUHLE" Telephone="76117543"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="400" DomesticCurrencyCode="SZL" ForeignValue="400" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="58" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422734" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="1200">
+    <NonResident>
+      <Individual Surname="VILAKATI" Name="NOMVULA" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508301"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MDLULI" Name="QSM" Gender="F" DateOfBirth="1963-09-20" IDNumber="6309201100020">
+        <AdditionalCustomerData AccountName="QSM" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110002777099" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MABUZA" ContactName="PETER EPHRAIM" Telephone="76117543"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="600" DomesticCurrencyCode="SZL" ForeignValue="600" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="59" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423145" BranchCode="660464" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="10000">
+    <NonResident>
+      <Individual Surname="VILAKATI" Name="DENISE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508302"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="TSABEDZE" Name="VELEMUSENI" Gender="F" DateOfBirth="1963-09-20" IDNumber="6309201100020">
+        <AdditionalCustomerData AccountName="VELEMUSENI" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110001156988" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MASUKU" ContactName="HITLER MUSA" Telephone="76355152"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="5000" DomesticCurrencyCode="SZL" ForeignValue="5000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="60" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423043" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="40000">
+    <NonResident>
+      <Individual Surname="Shiba" Name="MUNYARADZI" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508304"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MTHEMBU" Name="SIFISO" Gender="M" DateOfBirth="1977-05-15" IDNumber="7705156100049">
+        <AdditionalCustomerData AccountName="SIFISO" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110000218211" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MBONANE" ContactName="SIFISO" Telephone="76737127"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="20000" DomesticCurrencyCode="SZL" ForeignValue="20000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="61" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422964" BranchCode="663464" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="12000">
+    <NonResident>
+      <Individual Surname="Hlophe" Name="Welile" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508305"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="simelane" Name="celumusa" Gender="M" DateOfBirth="1977-05-15" IDNumber="7705156100049">
+        <AdditionalCustomerData AccountName="celumusa" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110006196511" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MYENI" ContactName="SIYABONGA" Telephone="76038384"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="6000" DomesticCurrencyCode="SZL" ForeignValue="6000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="62" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422804" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="45000">
+    <NonResident>
+      <Individual Surname="Mnguni" Name="Welile" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508306"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="Maliba" Name="Christopher" Gender="F" DateOfBirth="1958-08-01" IDNumber="5808011100014">
+        <AdditionalCustomerData AccountName="Christopher" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110006196511" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="BHIYA" ContactName="RIAAN MANDLA" Telephone="76038384"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="22500" DomesticCurrencyCode="SZL" ForeignValue="22500" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="63" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422966" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="14400">
+    <NonResident>
+      <Individual Surname="Mnguni" Name="Welile" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508307"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="DLAMINI" Name="BAVUKILE" Gender="M" DateOfBirth="1973-01-06" IDNumber="7301066100152">
+        <AdditionalCustomerData AccountName="BAVUKILE" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110006196511" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="SHUNGUBE" ContactName="CONDILE GLADYS" Telephone="76038384"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="7200" DomesticCurrencyCode="SZL" ForeignValue="7200" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="64" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422969" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="40500">
+    <NonResident>
+      <Individual Surname="Dlamini" Name="Welile" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508308"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="NDLELA" Name="MFUNDO" Gender="F" DateOfBirth="1980-04-17" IDNumber="8004171100203">
+        <AdditionalCustomerData AccountName="MFUNDO" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110006196511" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="FAKUDE" ContactName="PHUMZILE NONHLANHLA" Telephone="76038384"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="20250" DomesticCurrencyCode="SZL" ForeignValue="20250" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="65" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422965" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="27000">
+    <NonResident>
+      <Individual Surname="Mjali" Name="Welile" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508309"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="NSIBANDE" Name="ESTHER" Gender="F" DateOfBirth="1980-04-17" IDNumber="8004171100203">
+        <AdditionalCustomerData AccountName="ESTHER" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110001953373" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MSWANE" ContactName="ZANELE NASHAEN" Telephone="76038384"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="13500" DomesticCurrencyCode="SZL" ForeignValue="13500" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="66" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422803" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="44500">
+    <NonResident>
+      <Individual Surname="Mjali" Name="Welile" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508310"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="CARVALHO" Name="PATRICIA" Gender="F" DateOfBirth="1980-04-17" IDNumber="8004171100203">
+        <AdditionalCustomerData AccountName="PATRICIA" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110006196511" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="JIYANE" ContactName="THULISILE PATRICIA" Telephone="76038384"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="22250" DomesticCurrencyCode="SZL" ForeignValue="22250" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="67" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423005" BranchCode="663464" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="28800">
+    <NonResident>
+      <Individual Surname="Mendes" Name="Welile" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508311"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="DUBE" Name="KHANYISILE" Gender="M" DateOfBirth="1995-10-21" IDNumber="9510216100031">
+        <AdditionalCustomerData AccountName="KHANYISILE" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110006196511" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="NKAMBULE" ContactName="THEMBA" Telephone="76038384"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="14400" DomesticCurrencyCode="SZL" ForeignValue="14400" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="68" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422967" BranchCode="663464" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="47400">
+    <NonResident>
+      <Individual Surname="Mawelela" Name="Welile" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508312"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="NXUMALO" Name="BONGINKOSI" Gender="M" DateOfBirth="1952-01-05" IDNumber="5201056100125">
+        <AdditionalCustomerData AccountName="BONGINKOSI" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110006196511" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MULAUDZI" ContactName="AWEDZANI" Telephone="76038384"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="23700" DomesticCurrencyCode="SZL" ForeignValue="23700" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="69" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422861" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="600">
+    <NonResident>
+      <Individual Surname="Van den Berg" Name="MUSAWENKHOSI" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508314"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="DLAMINI" Name="NONHLANHLA" Gender="M" DateOfBirth="1973-01-06" IDNumber="7301066100152">
+        <AdditionalCustomerData AccountName="NONHLANHLA" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110001195649" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="RWANQA" ContactName="NTOMBIFIKILE" Telephone="76271783"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="300" DomesticCurrencyCode="SZL" ForeignValue="300" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="70" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422754" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="2000">
+    <NonResident>
+      <Individual Surname="van den Berg" Name="MXOLISI" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508315"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="Mabila" Name="Velaphi" Gender="F" DateOfBirth="1980-04-17" IDNumber="8004171100203">
+        <AdditionalCustomerData AccountName="Velaphi" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110001575611" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="RWANQA" ContactName="NTOMBIFIKILE" Telephone="79039285"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="1000" DomesticCurrencyCode="SZL" ForeignValue="1000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="71" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422882" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="2000">
+    <NonResident>
+      <Individual Surname="DUBE" Name="MXOLISI" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508319"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="KUNENE" Name="ELMON" Gender="F" DateOfBirth="1921-11-30" IDNumber="2021911000695">
+        <AdditionalCustomerData AccountName="ELMON" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110001575611" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MUHLWA" ContactName="NTOMBIZANELE" Telephone="79039285"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="1000" DomesticCurrencyCode="SZL" ForeignValue="1000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="72" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422972" BranchCode="661264" BranchName="Tshaneni" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="10000">
+    <NonResident>
+      <Individual Surname="MENDES" Name="CORLETIA" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508321"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MATSEBULA" Name="JIMMY" Gender="F" DateOfBirth="1973-10-06" IDNumber="7310061100455">
+        <AdditionalCustomerData AccountName="JIMMY" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110002675245" StreetAddressLine1="Tshaneni" StreetSuburb="Tshaneni" StreetCity="Tshaneni" StreetRegion="Lubombo" PostalAddressLine1="Tshaneni" PostalSuburb="Tshaneni" PostalCity="Tshaneni" PostalRegion="Lubombo" ContactSurname="MKHOMBE" ContactName="NONDUMISO" Telephone="78652629"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="5000" DomesticCurrencyCode="SZL" ForeignValue="5000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="73" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423020" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="56800">
+    <NonResident>
+      <Individual Surname="Mulaudzi" Name="CHANG" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508323"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="ZWANE" Name="ELLEN" Gender="F" DateOfBirth="1921-11-30" IDNumber="2021911000695">
+        <AdditionalCustomerData AccountName="ELLEN" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110004167506" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="SAMAGAIO" ContactName="ROSEMARY" Telephone="76980663"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="28400" DomesticCurrencyCode="SZL" ForeignValue="28400" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="74" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422834" BranchCode="663464" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="1000">
+    <NonResident>
+      <Individual Surname="ZULU" Name="BONGANI" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508324"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="DLAMINI" Name="DLAMINI" Gender="M" DateOfBirth="1982-10-20" IDNumber="8210206100197">
+        <AdditionalCustomerData AccountName="DLAMINI" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110000520015" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="Shongwe" ContactName="SANELE" Telephone="76634707"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="500" DomesticCurrencyCode="SZL" ForeignValue="500" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="75" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422894" BranchCode="663464" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="200">
+    <NonResident>
+      <Individual Surname="MTHIMKHULU" Name="SETHABILE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508325"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MSIBI" Name="MATSELISO" Gender="F" DateOfBirth="1984-12-30" IDNumber="8412301100011">
+        <AdditionalCustomerData AccountName="MATSELISO" AccountIdentifier="RESIDENT OTHER" AccountNumber="911000301098" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="DLAMINI" ContactName="NONHLANHLA" Telephone="79029047"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="100" DomesticCurrencyCode="SZL" ForeignValue="100" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="76" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422888" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="13000">
+    <NonResident>
+      <Individual Surname="Mavundla" Name="MNOTFO" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508326"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="GWEBU" Name="GWEBU" Gender="M" DateOfBirth="1982-09-25" IDNumber="8209256100370">
+        <AdditionalCustomerData AccountName="GWEBU" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110003604651" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="JENOVI" ContactName="SOPHIE" Telephone="760544"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="6500" DomesticCurrencyCode="SZL" ForeignValue="6500" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="77" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422742" BranchCode="660964" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="3000">
+    <NonResident>
+      <Individual Surname="Zwane" Name="BONGANI" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508327"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MAZIYA" Name="DUDU" Gender="M" DateOfBirth="1978-05-10" IDNumber="7805106100014">
+        <AdditionalCustomerData AccountName="DUDU" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110002632627" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="DLAMINI" ContactName="MVIKELI" Telephone="76060277"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="1500" DomesticCurrencyCode="SZL" ForeignValue="1500" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="78" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422895" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="4008">
+    <NonResident>
+      <Individual Surname="GRANT" Name="MAZWI" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508328"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MAZIYA" Name="DUDU" Gender="M" DateOfBirth="1967-02-05" IDNumber="6702056100014">
+        <AdditionalCustomerData AccountName="DUDU" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110003442643" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="SPIRK" ContactName="PHINDILE" Telephone="76120495"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="2004" DomesticCurrencyCode="SZL" ForeignValue="2004" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="79" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422902" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="20000">
+    <NonResident>
+      <Individual Surname="Mazibuko" Name="JERE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508329"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="ZWANE(STAFF)" Name="ZWANE(STAFF)" Gender="M" DateOfBirth="1953-05-25" IDNumber="5305256000116">
+        <AdditionalCustomerData AccountName="ZWANE(STAFF)" AccountIdentifier="RESIDENT OTHER" AccountNumber="911000323697" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="JARKO" ContactName="STEFAN" Telephone="76022977"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="10000" DomesticCurrencyCode="SZL" ForeignValue="10000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="80" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423125" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="12000">
+    <NonResident>
+      <Individual Surname="Ndlela" Name="SIBONELELWE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508330"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MOTSA" Name="NOTHANDO" Gender="F" DateOfBirth="1987-05-20" IDNumber="8705201100027">
+        <AdditionalCustomerData AccountName="NOTHANDO" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110001285389" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="KHANDABILA" ContactName="SBONISO MILTON" Telephone="76034442"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="6000" DomesticCurrencyCode="SZL" ForeignValue="6000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="81" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423026" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="81200">
+    <NonResident>
+      <Individual Surname="Nsibande" Name="SILWAYIPHI" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508331"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="GWEBU" Name="GWEBU" Gender="M" DateOfBirth="1969-04-11" IDNumber="6904116100121">
+        <AdditionalCustomerData AccountName="GWEBU" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110002777056" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MNDEBELE" ContactName="PHILISIWE" Telephone="7606364"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="40600" DomesticCurrencyCode="SZL" ForeignValue="40600" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="82" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422918" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="40000">
+    <NonResident>
+      <Individual Surname="Aziz" Name="TEMHLANGA" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508334"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="JANE" Name="JANE" Gender="F" DateOfBirth="1993-09-02" IDNumber="9309021100405">
+        <AdditionalCustomerData AccountName="JANE" AccountIdentifier="RESIDENT OTHER" AccountNumber="911000589155" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="DLAMINI" ContactName="NONHLE NOSIMO" Telephone="76762916"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="20000" DomesticCurrencyCode="SZL" ForeignValue="20000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="83" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423003" BranchCode="663464" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="3000">
+    <NonResident>
+      <Individual Surname="DLAMINI" Name="SEBENZILE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508337"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="SHONGWE" Name="ZANELE" Gender="F" DateOfBirth="1978-11-14" IDNumber="7811141100027">
+        <AdditionalCustomerData AccountName="ZANELE" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110004847108" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MADUTUNG" ContactName="THAPELO" Telephone="76278995"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="1500" DomesticCurrencyCode="SZL" ForeignValue="1500" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="84" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423013" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="2000">
+    <NonResident>
+      <Individual Surname="LENASIA" Name="CEBISA" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508340"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="THEMBI" Name="THEMBI" Gender="M" DateOfBirth="1990-04-14" IDNumber="9004146100246">
+        <AdditionalCustomerData AccountName="THEMBI" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110004801094" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="CISHE" ContactName="AVELILE" Telephone="76225681"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="1000" DomesticCurrencyCode="SZL" ForeignValue="1000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="85" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33424650" BranchCode="663464" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="5040">
+    <NonResident>
+      <Individual Surname="Nkambule" Name="AYANDA" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508342"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MANYATSI" Name="BANELE" Gender="F" DateOfBirth="1986-05-29" IDNumber="8605291100079">
+        <AdditionalCustomerData AccountName="BANELE" AccountIdentifier="RESIDENT OTHER" AccountNumber="911000335283" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MPUZI" ContactName="COSTANCE" Telephone="76225681"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="2520" DomesticCurrencyCode="SZL" ForeignValue="2520" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="86" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423166" BranchCode="661264" BranchName="Tshaneni" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="1600">
+    <NonResident>
+      <Individual Surname="Nkosi" Name="YVES" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508344"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="HORSLEY" Name="BRYDEN" Gender="F" DateOfBirth="1986-05-29" IDNumber="8605291100079">
+        <AdditionalCustomerData AccountName="BRYDEN" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110001428155" StreetAddressLine1="Tshaneni" StreetSuburb="Tshaneni" StreetCity="Tshaneni" StreetRegion="Lubombo" PostalAddressLine1="Tshaneni" PostalSuburb="Tshaneni" PostalCity="Tshaneni" PostalRegion="Lubombo" ContactSurname="DLAMINI" ContactName="PETTY  GLADYS" Telephone="78340788"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="800" DomesticCurrencyCode="SZL" ForeignValue="800" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="87" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422996" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="2070">
+    <NonResident>
+      <Individual Surname="Nyirenda" Name="DRUCE" Gender="M">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508346"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="SIMELANE" Name="NOSIMILO" Gender="M" DateOfBirth="1970-09-02" IDNumber="7009026100036">
+        <AdditionalCustomerData AccountName="NOSIMILO" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110003329545" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MOLEPO" ContactName="NGOANAMOSHATE LAURA" Telephone="76024344"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="1035" DomesticCurrencyCode="SZL" ForeignValue="1035" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="88" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422923" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="5000">
+    <NonResident>
+      <Individual Surname="KATENDE" Name="SIPHESIHLE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508352"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="NKUMANE" Name="NKUMANE" Gender="M" DateOfBirth="1989-03-05" IDNumber="8903056100289">
+        <AdditionalCustomerData AccountName="NKUMANE" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110002779148" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MNISI" ContactName="NKULULEKO" Telephone="76316161"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="2500" DomesticCurrencyCode="SZL" ForeignValue="2500" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="89" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422863" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="3000">
+    <NonResident>
+      <Individual Surname="Nkosi" Name="NOMBULELO" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508354"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MAKHANYA" Name="SIPHO" Gender="F" DateOfBirth="1984-03-20" IDNumber="8403201100029">
+        <AdditionalCustomerData AccountName="SIPHO" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110003544497" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MAGAGULA" ContactName="JREFOYCE THOKOZANA" Telephone="76068418"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="1500" DomesticCurrencyCode="SZL" ForeignValue="1500" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="90" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423060" BranchCode="660864" BranchName="Nhlangano" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="6000">
+    <NonResident>
+      <Individual Surname="aron" Name="NTOKOZO" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508356"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="JAMES" Name="JAMES" Gender="M" DateOfBirth="1977-12-25" IDNumber="7712256100168">
+        <AdditionalCustomerData AccountName="JAMES" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110002717665" StreetAddressLine1="Nhlangano" StreetSuburb="Nhlangano" StreetCity="Nhlangano" StreetRegion="Shiselweni" PostalAddressLine1="Nhlangano" PostalSuburb="Nhlangano" PostalCity="Nhlangano" PostalRegion="Shiselweni" ContactSurname="MNCUBE" ContactName="ABRAHAM NDABA" Telephone="76060115"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="3000" DomesticCurrencyCode="SZL" ForeignValue="3000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="91" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422916" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="600">
+    <NonResident>
+      <Individual Surname="Mbazima" Name="NOMPUMELELO" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508358"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="james" Name="Miller" Gender="F" DateOfBirth="1986-04-30" IDNumber="8604301100021">
+        <AdditionalCustomerData AccountName="Miller" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110003299026" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MNISI" ContactName="RONNY" Telephone="76182265"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="300" DomesticCurrencyCode="SZL" ForeignValue="300" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="92" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422730" BranchCode="661264" BranchName="Tshaneni" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="1000">
+    <NonResident>
+      <Individual Surname="DLAMINI" Name="PHETSILE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508359"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="LUKHELE" Name="ABRAHAM" Gender="F" DateOfBirth="1980-08-06" IDNumber="8008061100058">
+        <AdditionalCustomerData AccountName="ABRAHAM" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110003607944" StreetAddressLine1="Tshaneni" StreetSuburb="Tshaneni" StreetCity="Tshaneni" StreetRegion="Lubombo" PostalAddressLine1="Tshaneni" PostalSuburb="Tshaneni" PostalCity="Tshaneni" PostalRegion="Lubombo" ContactSurname="MABUZA" ContactName="PHILOMENA KWANELE" Telephone="76245253"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="500" DomesticCurrencyCode="SZL" ForeignValue="500" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="93" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422925" BranchCode="661264" BranchName="Tshaneni" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="7000">
+    <NonResident>
+      <Individual Surname="Masango" Name="SOPHIE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508360"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MTETWA" Name="BANELE" Gender="F" DateOfBirth="1953-09-11" IDNumber="5309111100012">
+        <AdditionalCustomerData AccountName="BANELE" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110000697233" StreetAddressLine1="Tshaneni" StreetSuburb="Tshaneni" StreetCity="Tshaneni" StreetRegion="Lubombo" PostalAddressLine1="Tshaneni" PostalSuburb="Tshaneni" PostalCity="Tshaneni" PostalRegion="Lubombo" ContactSurname="DUBE" ContactName="SIPHO" Telephone="76503898"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="3500" DomesticCurrencyCode="SZL" ForeignValue="3500" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="94" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423012" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="520">
+    <NonResident>
+      <Individual Surname="NZIMA" Name="TENELE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508363"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MABUZA" Name="MABUZA" Gender="F" DateOfBirth="1990-12-08" IDNumber="9012081100345">
+        <AdditionalCustomerData AccountName="MABUZA" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110004308754" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="BHEMBE" ContactName="MLUNGISI" Telephone="78532922"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="260" DomesticCurrencyCode="SZL" ForeignValue="260" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="95" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422733" BranchCode="663164" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="2000">
+    <NonResident>
+      <Individual Surname="Makhanya" Name="SANELE" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508366"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="DLAMINI" Name="DLAMINI" Gender="F" DateOfBirth="1976-10-16" IDNumber="7610161100119">
+        <AdditionalCustomerData AccountName="DLAMINI" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110006028163" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="MABIRIA" ContactName="FRANCIS" Telephone="76955311"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="1000" DomesticCurrencyCode="SZL" ForeignValue="1000" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="96" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33423033" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="40">
+    <NonResident>
+      <Individual Surname="van Kooten" Name="NOMPENDULO" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508367"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="MAKHANYA" Name="MAKHANYA" Gender="F" DateOfBirth="1992-02-23" IDNumber="9202231100242">
+        <AdditionalCustomerData AccountName="MAKHANYA" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110006085965" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="KUNENE" ContactName="NICHOLAS" Telephone="76470496"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="20" DomesticCurrencyCode="SZL" ForeignValue="20" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="97" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422919" BranchCode="660564" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="5000">
+    <NonResident>
+      <Individual Surname="Dlamini" Name="MAVUSO" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508368"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="DLAMINI" Name="DLAMINI" Gender="M" DateOfBirth="1975-08-08" IDNumber="7508086100398">
+        <AdditionalCustomerData AccountName="DLAMINI" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110004147807" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="SEBOKANA" ContactName="SELEKA ISAAC" Telephone="76068766"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="2500" DomesticCurrencyCode="SZL" ForeignValue="2500" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="98" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422921" BranchCode="663464" BranchName="Manzini" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="895">
+    <NonResident>
+      <Individual Surname="Lukhele" Name="MAVUSO" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508369"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="FAKUDZE MAZIYA" Name="FAKUDZE" Gender="M" DateOfBirth="1975-08-08" IDNumber="7508086100398">
+        <AdditionalCustomerData AccountName="FAKUDZE" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110004147807" StreetAddressLine1="Manzini" StreetSuburb="Manzini" StreetCity="Manzini" StreetRegion="manzini" PostalAddressLine1="Manzini" PostalSuburb="Manzini" PostalCity="Manzini" PostalRegion="manzini" ContactSurname="LANGA" ContactName="SIBUSISO OBED" Telephone="76068766"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="448" DomesticCurrencyCode="SZL" ForeignValue="448" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+  <OriginalTransaction LineNumber="99" ReportingQualifier="BOPCUS" Flow="OUT" ReplacementTransaction="N" ValueDate="2023-03-20" TrnReference="33422908" BranchCode="661164" BranchName="Big bend" OriginatingCountry="SZ" ReceivingBank="SBZAZAJJXXX" ReceivingCountry="ZA" TotalValue="6400">
+    <NonResident>
+      <Individual Surname="HODZA" Name="VUKANI" Gender="F">
+        <AdditionalNonResidentData Country="ZA" AccountNumber="111000ZAR0508370"/>
+      </Individual>
+    </NonResident>
+    <ResidentCustomerAccountHolder>
+      <IndividualCustomer Surname="FAKUDZE" Name="FAKUDZE" Gender="M" DateOfBirth="1989-03-30" IDNumber="8903306100303">
+        <AdditionalCustomerData AccountName="FAKUDZE" AccountIdentifier="RESIDENT OTHER" AccountNumber="9110001351608" StreetAddressLine1="Big bend" StreetSuburb="Big Bend" StreetCity="Big Bend" StreetRegion="Lubombo" PostalAddressLine1="Big bend" PostalSuburb="Big Bend" PostalCity="Big Bend" PostalRegion="Lubombo" ContactSurname="MASINA" ContactName="FIKI ELIJAH" Telephone="76326252"/>
+      </IndividualCustomer>
+    </ResidentCustomerAccountHolder>
+    <MonetaryDetails SequenceNumber="1" MoneyTransferAgentIndicator="AD" DomesticValue="3200" DomesticCurrencyCode="SZL" ForeignValue="3200" ForeignCurrencyCode="ZAR" BoPCategory="41600" LocationCountry="ZA"/>
+  </OriginalTransaction>
+</Report>

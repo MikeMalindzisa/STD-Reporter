@@ -1,0 +1,25 @@
+#include <winver.h>
+
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION 1,0,13,0
+PRODUCTVERSION 1,0,13,0
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904E4"
+        BEGIN
+            VALUE "CompanyName", "Standard Bank"
+            VALUE "FileDescription", "STD Reporter"
+            VALUE "FileVersion", "1,0,13,0"
+            VALUE "InternalName", "STD Reporter"
+            VALUE "OriginalFilename", "Reporter.exe"
+            VALUE "ProductName", "Standard Bank BOP Reporter"
+            VALUE "ProductVersion", "1,0,13,0"
+        END
+    END
+
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1252
+    END
+END
